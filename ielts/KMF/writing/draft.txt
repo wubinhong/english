@@ -1,0 +1,63 @@
+
+## Day01 - 数据类动态小作文
+---
+
+### 时态
+42% of Australian household energy is used for heating.
+The aging population in Japna is anticipate to soar after 2030.
+The average carbon dioxide emission per person in Swizze dropped sharply after 1997.
+
+### 三大基本句型
+- 趋势句型
+教师数量自1960年开始急剧下降
+The number of full-time teachers declined dramatically since 1960.
+- 被动句型
+1962年教师数量开始回升到500万
+A noticeable recovery to 5 millions was found in teachers' quantity in 1962.
+- 拟人句型
+中国在接下来的25年内见证了教师数量的稳步上升，从1965年的5百万到1990年的1千万
+In the next 25 years, China witnessed a gradual rise in the total number of teachers from 5 millions in 1965 to 10 millions in 1990.
+- 其他句型
+the 2019 witnessed a rise in the number of teachers.
+a trend showed a steady increase in the number of teachers
+the teachers' quantity was on the rise in 1990.
+There was a gradual decline in the number of ....
+- 趋势之间的连接
+
+
+## Day02 - 数据类静态小作文
+---
+
+### 9分范文
+
+Paragraph 1.
+饼图给出了关于北美、南美、欧洲、非洲、中亚和东南亚不同国家水资源不同用途比例的分析
+the charts give the information about the proportion of water utilized for different perpose in North America, South America, Europe, Africa, Central Asia and South East Asia.
+
+Paragraph 2.
+从图表可以很清楚地看到，欧洲（53%）和北美（48%）的工业用水比例都是最大的。而与此相反，家庭用水却是最小的，分别是15%和13%。此外，欧洲有三分之一的水资源被用于农业灌溉用途，比美国略微高一点。
+As is represented from the charts, the largest amount of water is used for industrial development in both Europe(53%) and North America(48%). By the contrast, household water use represents the smallest amount, 15% in Europe and 13% in North America. In addition, one third of water is consumed for agricultural purposes in Europe, moderately higher than that in North America.
+
+Paragraph 3.
+从对图表的进一步分析来看，其他地区的水资源大多用于农业灌溉。他们之中，中亚以88%的比例遥遥领先。接下来是非洲（84%）和东南亚（81%）。有趣的是，这三个地区的工业用水和生活用水所占比例都比较相近。
+A more thorough analysis displays that the rest of the areas use the most of water for agricultural benefits. Among them, Central Asia stays in the top position with 88%. The next one is Africa(84%) and South East Asia(81%). Interestingly, industry and households share the rest nearly equally in these three regions.
+
+
+Paragraph 4.
+当我们进一步分析到生活用水时发现，南美竟然使用了19%，位列第一。这与其工业用水（7%）和农业用水（74%）形成了鲜明的对比。综上所述，在总消耗中，生活用水仅仅占据了一个微不足道的比例。
+When it comes to domestic water consumption, South America, is second to none, which use 19% alone. however, it is in stark contrast with the industral(7%) and agricultural consumption(74%). After all, domestic water use merely accounts for a marginal proportion in the global water consumption.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
