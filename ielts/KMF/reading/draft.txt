@@ -1,17 +1,29 @@
+上升：
+increase, rise, grow
+
+下降：
+decrease, fall, drop
+
+大幅度：
+sharp, dramatic, significant, considerable
+小幅度：
+gradual, smooth, slight, moderate
+
+带幅度上升
+soar to, rock to, surge to
+
+带幅度下降
+plummet to, plunge to, dip to
 
 
-文：Fear is a major impediment to thinking like an iconoclast...
-恐惧是我们能像iconoclast一样思考的主要障碍
-
-题：If you think in an iconoclastic way, you can easily overcome fear.
-如果我们能像iconoclast一样思考，我们就很容易克服恐惧。
 
 
-我觉得题目选YES确实比较牵强，因为能想conoclast一样思考，的确并不意味着我们能克服恐惧，他们没有因果关系，可是选FALSE，我觉得也是不能成立的，我觉得选NOT GIVEN比较贴切吧？
+The total number of interest-driven learners increased to 3000 in 1998, remaining at a steady level in the later five years.
 
-除非我们对原文的理解是：
-恐惧，对于iconoclast来说，也是一种障碍
-这种情况下，我们选FALSE，我觉得是没有问题的
+The total number of studying for interest rose to 3000 in 1998 after which it plateaued for about 5 years.
+
+After an increase to 3000 in 1998, the total number of studying for interest plateaued for about 5 years.
+
 
 
 

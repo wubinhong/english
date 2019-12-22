@@ -49,6 +49,16 @@ When it comes to domestic water consumption, South America, is second to none, w
 
 
 
+小作文
+The line graph illustrates the electricity consumption in England in a typically whole day in winter and summer respectively, while the pie chart focuses on the proportion analysis of average electricity consumption for different usage in an English home.
+
+Overall, according to the two figures above, the electricity consumption in winter is nearly twice that in summer for a whole day, and an average English home spends the highest percentage on heating rooms and heating water, which is more than half of the global consumption.
+
+To be more specific, the electricity consumption in winter increases gradually from 32,000 at 0 AM to 40,000 at 3 AM and then bottoms out the whole day at 7 o'clock. From then on, it experiences a slow increase in the following hours, reaching a maximum at 11 PM, after which it drops sharply in the later hour. Interestingly, the figure of summer shows a different tendency comparing with that of winter. It declines slightly during the first nine hours and then surges to the peak of the whole day at 2 PM,  and fluctuation was found clearly since then.
+
+When it comes to the proportion, heating rooms and water, is second to none, which use 52.5% alone, closely followed by Ovens, kettles, and washing machines, which is only less than one in third of the former. After that, the rest of the percentage(about 30%) is shared evenly by the two other items.
+
+
 
 
 
